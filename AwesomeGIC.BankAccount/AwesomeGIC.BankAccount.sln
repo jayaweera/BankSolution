@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeGIC.BankAccount", "AwesomeGIC.BankAccount\AwesomeGIC.BankAccount.csproj", "{E80A0BAA-C066-41B7-81F3-0E9DB0B7B615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80A0BAA-C066-41B7-81F3-0E9DB0B7B615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80A0BAA-C066-41B7-81F3-0E9DB0B7B615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80A0BAA-C066-41B7-81F3-0E9DB0B7B615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80A0BAA-C066-41B7-81F3-0E9DB0B7B615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479581A5-F40B-446A-BA5E-15DA3A5AADF2}
+	EndGlobalSection
+EndGlobal

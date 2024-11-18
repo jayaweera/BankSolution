@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AwesomeGIC.BankAccount/.vs/AwesomeGIC.BankAccount
+/AwesomeGIC.BankAccount/AwesomeGIC.BankAccount/obj
+/AwesomeGIC.BankAccount/AwesomeGIC.BankAccount/bin/Debug/net8.0
